@@ -11,4 +11,4 @@ CocBotDeliverable/ has 2 executables with the settings i commonly ran with, as w
 
 java/ contains the makefile to run the java version with.
 
-ahk/ contains the ahk that the java version depends on, in addition to the AHK file of the fully AutoHotKey version. 
+ahk/ contains the ahk that the java version depends on, in addition to the AHK file of the fully AutoHotKey version. This AHK source is the most interesting part of this repo. 
